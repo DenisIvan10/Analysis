@@ -1,0 +1,101 @@
+﻿item_id,sku,item_name,item_cat,item_size,item_price
+P1,SKU001,Prosciutto Funghi,Pizza,L,34.45
+P2,SKU002,Prosciutto Funghi,Pizza,L,40.75
+P3,SKU003,Hawaiian,Pizza,L,30.76
+P4,SKU004,Prosciutto Funghi,Pizza,M,39.53
+P5,SKU005,Vegetariană,Pizza,S,37.98
+P6,SKU006,Hawaiian,Pizza,L,29.72
+P7,SKU007,Vegetariană,Pizza,S,37.64
+P8,SKU008,Pepperoni,Pizza,L,39.28
+P9,SKU009,Diavola,Pizza,M,37.27
+P10,SKU010,Tonno,Pizza,L,26.72
+P11,SKU011,BBQ Chicken,Pizza,M,29.53
+P12,SKU012,Capricciosa,Pizza,S,46.08
+P13,SKU013,Tonno,Pizza,M,31.72
+P14,SKU014,Diavola,Pizza,L,32.94
+P15,SKU015,Diavola,Pizza,M,39.17
+P16,SKU016,Capricciosa,Pizza,M,32.51
+P17,SKU017,Diavola,Pizza,L,41.34
+P18,SKU018,Vegetariană,Pizza,L,31.74
+P19,SKU019,Margherita,Pizza,L,40.98
+P20,SKU020,Hawaiian,Pizza,L,48.19
+P21,SKU021,Diavola,Pizza,L,26.29
+P22,SKU022,Tonno,Pizza,M,40.4
+P23,SKU023,Capricciosa,Pizza,L,25.81
+P24,SKU024,Quattro Stagioni,Pizza,M,26.38
+P25,SKU025,Diavola,Pizza,L,44.17
+P26,SKU026,Pepperoni,Pizza,M,37.48
+P27,SKU027,Prosciutto Funghi,Pizza,S,43.57
+P28,SKU028,Vegetariană,Pizza,M,27.77
+P29,SKU029,Quattro Stagioni,Pizza,L,45.28
+P30,SKU030,Vegetariană,Pizza,S,28.34
+P31,SKU031,Prosciutto Funghi,Pizza,M,36.94
+P32,SKU032,Quattro Stagioni,Pizza,M,49.62
+P33,SKU033,BBQ Chicken,Pizza,L,48.23
+P34,SKU034,Capricciosa,Pizza,L,35
+P35,SKU035,BBQ Chicken,Pizza,M,41.33
+P36,SKU036,Quattro Stagioni,Pizza,M,39.07
+P37,SKU037,Diavola,Pizza,L,35.94
+P38,SKU038,Tonno,Pizza,S,38.14
+P39,SKU039,Diavola,Pizza,S,29.83
+P40,SKU040,BBQ Chicken,Pizza,M,33.9
+P41,SKU041,Diavola,Pizza,M,39.02
+P42,SKU042,Tonno,Pizza,S,27.95
+P43,SKU043,Vegetariană,Pizza,M,45.11
+P44,SKU044,Quattro Stagioni,Pizza,L,35.24
+P45,SKU045,Margherita,Pizza,S,34.32
+P46,SKU046,Quattro Stagioni,Pizza,M,41.66
+P47,SKU047,BBQ Chicken,Pizza,M,27.74
+P48,SKU048,Pepperoni,Pizza,S,48.09
+P49,SKU049,Diavola,Pizza,S,41.62
+P50,SKU050,Quattro Stagioni,Pizza,M,44.84
+P51,SKU051,Capricciosa,Pizza,M,41.8
+P52,SKU052,Vegetariană,Pizza,M,37.5
+P53,SKU053,Hawaiian,Pizza,L,46.51
+P54,SKU054,Capricciosa,Pizza,S,35.65
+P55,SKU055,Pepperoni,Pizza,M,40.01
+P56,SKU056,Prosciutto Funghi,Pizza,L,30.66
+P57,SKU057,Margherita,Pizza,L,38.06
+P58,SKU058,Margherita,Pizza,L,25.43
+P59,SKU059,Diavola,Pizza,S,36.57
+P60,SKU060,Margherita,Pizza,M,39.51
+P61,SKU061,Margherita,Pizza,M,25.74
+P62,SKU062,Tonno,Pizza,S,43.1
+P63,SKU063,Vegetariană,Pizza,M,45.44
+P64,SKU064,BBQ Chicken,Pizza,L,48.11
+P65,SKU065,Hawaiian,Pizza,M,26.61
+P66,SKU066,Hawaiian,Pizza,M,43.44
+P67,SKU067,Quattro Stagioni,Pizza,L,47.22
+P68,SKU068,BBQ Chicken,Pizza,L,45
+P69,SKU069,Margherita,Pizza,S,28.61
+P70,SKU070,Vegetariană,Pizza,L,48.29
+P71,SKU071,Tonno,Pizza,M,45.45
+P72,SKU072,Prosciutto Funghi,Pizza,M,40.83
+P73,SKU073,Pepperoni,Pizza,S,45.54
+P74,SKU074,Hawaiian,Pizza,L,48.98
+P75,SKU075,Margherita,Pizza,M,38.65
+P76,SKU076,Pepperoni,Pizza,S,43.06
+P77,SKU077,Pepperoni,Pizza,L,45.78
+P78,SKU078,Capricciosa,Pizza,L,39.87
+P79,SKU079,Capricciosa,Pizza,S,37.29
+P80,SKU080,Pepperoni,Pizza,M,43.98
+P81,SKU081,Quattro Stagioni,Pizza,L,40.5
+P82,SKU082,Diavola,Pizza,S,40.29
+P83,SKU083,Vegetariană,Pizza,S,49.04
+P84,SKU084,Diavola,Pizza,S,47.4
+P85,SKU085,Margherita,Pizza,M,37.74
+P86,SKU086,Capricciosa,Pizza,M,36.33
+P87,SKU087,Quattro Stagioni,Pizza,L,35.71
+P88,SKU088,Diavola,Pizza,S,43.01
+P89,SKU089,Quattro Stagioni,Pizza,M,34.76
+P90,SKU090,Quattro Stagioni,Pizza,S,31.53
+P91,SKU091,Tonno,Pizza,L,38.29
+P92,SKU092,Prosciutto Funghi,Pizza,L,47.4
+P93,SKU093,Tonno,Pizza,L,39.77
+P94,SKU094,BBQ Chicken,Pizza,L,44.95
+P95,SKU095,BBQ Chicken,Pizza,L,32.18
+P96,SKU096,Tonno,Pizza,M,46.06
+P97,SKU097,Vegetariană,Pizza,L,33.75
+P98,SKU098,Diavola,Pizza,L,40.86
+P99,SKU099,Quattro Stagioni,Pizza,M,41.52
+P100,SKU100,Margherita,Pizza,S,46.15

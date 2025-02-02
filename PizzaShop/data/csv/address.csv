@@ -1,0 +1,101 @@
+﻿add_id,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+1,Strada Libertății 1,"Bloc B, Ap. 1",Cluj-Napoca,10001
+2,Strada Libertății 2,,Constanța,10002
+3,Strada Unirii 3,"Bloc D, Ap. 3",București,10003
+4,Strada Unirii 4,,Timișoara,10004
+5,Strada Unirii 5,"Bloc A, Ap. 5",București,10005
+6,Strada Unirii 6,,Cluj-Napoca,10006
+7,Strada Victoriei 7,"Bloc C, Ap. 7",Timișoara,10007
+8,Strada Păcii 8,,Iași,10008
+9,Strada Păcii 9,"Bloc E, Ap. 9",București,10009
+10,Strada Unirii 10,,Constanța,10010
+11,Strada Libertății 11,"Bloc B, Ap. 1",Cluj-Napoca,10011
+12,Strada Victoriei 12,,Timișoara,10012
+13,Strada Mihai Viteazu 13,"Bloc D, Ap. 3",Cluj-Napoca,10013
+14,Strada Păcii 14,,Cluj-Napoca,10014
+15,Strada Victoriei 15,"Bloc A, Ap. 5",Iași,10015
+16,Strada Victoriei 16,,Cluj-Napoca,10016
+17,Strada Mihai Viteazu 17,"Bloc C, Ap. 7",Cluj-Napoca,10017
+18,Strada Mihai Viteazu 18,,Iași,10018
+19,Strada Unirii 19,"Bloc E, Ap. 9",Cluj-Napoca,10019
+20,Strada Libertății 20,,Timișoara,10020
+21,Strada Unirii 21,"Bloc B, Ap. 1",București,10021
+22,Strada Mihai Viteazu 22,,Timișoara,10022
+23,Strada Unirii 23,"Bloc D, Ap. 3",Constanța,10023
+24,Strada Victoriei 24,,Iași,10024
+25,Strada Libertății 25,"Bloc A, Ap. 5",Cluj-Napoca,10025
+26,Strada Libertății 26,,București,10026
+27,Strada Unirii 27,"Bloc C, Ap. 7",Timișoara,10027
+28,Strada Libertății 28,,Constanța,10028
+29,Strada Libertății 29,"Bloc E, Ap. 9",Timișoara,10029
+30,Strada Păcii 30,,Constanța,10030
+31,Strada Victoriei 31,"Bloc B, Ap. 1",București,10031
+32,Strada Unirii 32,,Timișoara,10032
+33,Strada Mihai Viteazu 33,"Bloc D, Ap. 3",Cluj-Napoca,10033
+34,Strada Unirii 34,,Iași,10034
+35,Strada Victoriei 35,"Bloc A, Ap. 5",Iași,10035
+36,Strada Victoriei 36,,București,10036
+37,Strada Mihai Viteazu 37,"Bloc C, Ap. 7",Constanța,10037
+38,Strada Libertății 38,,Constanța,10038
+39,Strada Unirii 39,"Bloc E, Ap. 9",București,10039
+40,Strada Unirii 40,,București,10040
+41,Strada Victoriei 41,"Bloc B, Ap. 1",Iași,10041
+42,Strada Libertății 42,,Timișoara,10042
+43,Strada Libertății 43,"Bloc D, Ap. 3",Iași,10043
+44,Strada Victoriei 44,,Iași,10044
+45,Strada Unirii 45,"Bloc A, Ap. 5",Constanța,10045
+46,Strada Victoriei 46,,Constanța,10046
+47,Strada Unirii 47,"Bloc C, Ap. 7",Constanța,10047
+48,Strada Libertății 48,,București,10048
+49,Strada Victoriei 49,"Bloc E, Ap. 9",Timișoara,10049
+50,Strada Mihai Viteazu 50,,Cluj-Napoca,10050
+51,Strada Păcii 51,"Bloc B, Ap. 1",Cluj-Napoca,10051
+52,Strada Mihai Viteazu 52,,Iași,10052
+53,Strada Păcii 53,"Bloc D, Ap. 3",București,10053
+54,Strada Mihai Viteazu 54,,Cluj-Napoca,10054
+55,Strada Unirii 55,"Bloc A, Ap. 5",Iași,10055
+56,Strada Păcii 56,,Constanța,10056
+57,Strada Libertății 57,"Bloc C, Ap. 7",Timișoara,10057
+58,Strada Mihai Viteazu 58,,Constanța,10058
+59,Strada Libertății 59,"Bloc E, Ap. 9",Iași,10059
+60,Strada Libertății 60,,Iași,10060
+61,Strada Unirii 61,"Bloc B, Ap. 1",București,10061
+62,Strada Păcii 62,,Iași,10062
+63,Strada Păcii 63,"Bloc D, Ap. 3",Constanța,10063
+64,Strada Păcii 64,,Iași,10064
+65,Strada Unirii 65,"Bloc A, Ap. 5",București,10065
+66,Strada Unirii 66,,Constanța,10066
+67,Strada Mihai Viteazu 67,"Bloc C, Ap. 7",Timișoara,10067
+68,Strada Păcii 68,,Constanța,10068
+69,Strada Păcii 69,"Bloc E, Ap. 9",București,10069
+70,Strada Păcii 70,,Iași,10070
+71,Strada Unirii 71,"Bloc B, Ap. 1",Constanța,10071
+72,Strada Păcii 72,,București,10072
+73,Strada Unirii 73,"Bloc D, Ap. 3",București,10073
+74,Strada Mihai Viteazu 74,,Constanța,10074
+75,Strada Păcii 75,"Bloc A, Ap. 5",Timișoara,10075
+76,Strada Mihai Viteazu 76,,București,10076
+77,Strada Victoriei 77,"Bloc C, Ap. 7",Cluj-Napoca,10077
+78,Strada Mihai Viteazu 78,,Constanța,10078
+79,Strada Libertății 79,"Bloc E, Ap. 9",București,10079
+80,Strada Libertății 80,,Timișoara,10080
+81,Strada Mihai Viteazu 81,"Bloc B, Ap. 1",Timișoara,10081
+82,Strada Unirii 82,,Iași,10082
+83,Strada Victoriei 83,"Bloc D, Ap. 3",Cluj-Napoca,10083
+84,Strada Libertății 84,,Timișoara,10084
+85,Strada Victoriei 85,"Bloc A, Ap. 5",Constanța,10085
+86,Strada Victoriei 86,,București,10086
+87,Strada Libertății 87,"Bloc C, Ap. 7",Timișoara,10087
+88,Strada Păcii 88,,Constanța,10088
+89,Strada Păcii 89,"Bloc E, Ap. 9",Iași,10089
+90,Strada Unirii 90,,Timișoara,10090
+91,Strada Păcii 91,"Bloc B, Ap. 1",Timișoara,10091
+92,Strada Unirii 92,,Cluj-Napoca,10092
+93,Strada Păcii 93,"Bloc D, Ap. 3",Iași,10093
+94,Strada Libertății 94,,Cluj-Napoca,10094
+95,Strada Mihai Viteazu 95,"Bloc A, Ap. 5",Constanța,10095
+96,Strada Victoriei 96,,Timișoara,10096
+97,Strada Păcii 97,"Bloc C, Ap. 7",Iași,10097
+98,Strada Mihai Viteazu 98,,Cluj-Napoca,10098
+99,Strada Unirii 99,"Bloc E, Ap. 9",Iași,10099
+100,Strada Păcii 100,,Cluj-Napoca,100100

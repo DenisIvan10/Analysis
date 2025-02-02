@@ -1,0 +1,101 @@
+﻿staff_id,first_name,last_name,position,hourly_rate
+S1,Vlad,Marinescu,Casier,12.79
+S2,Alexandru,Radu,Bucătar,14.55
+S3,Ștefan,Mihalache,Ajutor Bucătar,13.19
+S4,Vlad,Marinescu,Curier,19.21
+S5,Ștefan,Vlad,Ajutor Bucătar,18.76
+S6,Ștefan,Mihalache,Bucătar,21.23
+S7,Ana,Radu,Curier,18.67
+S8,Alexandru,Petrescu,Curier,12.22
+S9,Ioana,Mihalache,Curier,16.45
+S10,Maria,Grigorescu,Casier,20.17
+S11,Raluca,Dobre,Casier,20.92
+S12,Florin,Radu,Chelner,22.82
+S13,Alexandru,Ionescu,Casier,15.06
+S14,Gabriel,Georgescu,Chelner,23.98
+S15,Ștefan,Mihalache,Curier,17.98
+S16,Cristian,Toma,Casier,17.91
+S17,Florin,Radu,Casier,17.13
+S18,Ana,Georgescu,Bucătar,20.99
+S19,Vlad,Georgescu,Ajutor Bucătar,23.09
+S20,Ioana,Grigorescu,Curier,14.2
+S21,Florin,Petrescu,Casier,15.91
+S22,Maria,Georgescu,Bucătar,18.43
+S23,Cristian,Marinescu,Casier,24.13
+S24,Alexandru,Ionescu,Curier,23.42
+S25,Ioana,Toma,Ajutor Bucătar,15.55
+S26,Gabriel,Mihalache,Curier,23.12
+S27,Ioana,Petrescu,Ajutor Bucătar,16.21
+S28,Vlad,Dobre,Casier,20.3
+S29,Cristian,Mihalache,Bucătar,21.84
+S30,Gabriel,Vlad,Bucătar,12.22
+S31,Ioana,Marinescu,Casier,15.58
+S32,Vlad,Mihalache,Chelner,21.03
+S33,Alexandru,Georgescu,Ajutor Bucătar,24.85
+S34,Ioana,Mihalache,Ajutor Bucătar,14.31
+S35,Florin,Georgescu,Bucătar,21.16
+S36,Florin,Vlad,Curier,20.39
+S37,Alexandru,Radu,Curier,19.28
+S38,Florin,Marinescu,Bucătar,12.39
+S39,Vlad,Georgescu,Curier,23.61
+S40,Florin,Grigorescu,Casier,13.71
+S41,Ana,Mihalache,Chelner,17.65
+S42,Maria,Petrescu,Curier,15.46
+S43,Raluca,Mihalache,Curier,13.8
+S44,Raluca,Vlad,Casier,13.56
+S45,Gabriel,Radu,Chelner,23.29
+S46,Vlad,Dobre,Curier,14.98
+S47,Florin,Ionescu,Bucătar,12.68
+S48,Cristian,Marinescu,Bucătar,17.9
+S49,Ștefan,Vlad,Casier,18.25
+S50,Gabriel,Marinescu,Bucătar,15.89
+S51,Ștefan,Grigorescu,Casier,13.07
+S52,Ioana,Dobre,Bucătar,15.65
+S53,Gabriel,Mihalache,Chelner,13.37
+S54,Ioana,Marinescu,Chelner,17.34
+S55,Cristian,Toma,Casier,20.6
+S56,Florin,Toma,Casier,23.76
+S57,Maria,Dobre,Bucătar,12.5
+S58,Maria,Marinescu,Bucătar,12.19
+S59,Alexandru,Grigorescu,Curier,13.14
+S60,Gabriel,Grigorescu,Bucătar,15.51
+S61,Florin,Grigorescu,Ajutor Bucătar,17.3
+S62,Vlad,Dobre,Chelner,18.63
+S63,Ștefan,Dobre,Casier,12.11
+S64,Vlad,Grigorescu,Chelner,16.39
+S65,Florin,Mihalache,Curier,22.92
+S66,Ștefan,Marinescu,Ajutor Bucătar,13.81
+S67,Alexandru,Toma,Curier,13.38
+S68,Ștefan,Vlad,Curier,17.28
+S69,Cristian,Grigorescu,Bucătar,20.73
+S70,Raluca,Grigorescu,Curier,23.75
+S71,Raluca,Dobre,Bucătar,17.11
+S72,Ștefan,Vlad,Casier,23.61
+S73,Maria,Grigorescu,Bucătar,23.95
+S74,Raluca,Vlad,Chelner,17.99
+S75,Alexandru,Georgescu,Casier,18.5
+S76,Raluca,Toma,Chelner,21.72
+S77,Florin,Grigorescu,Ajutor Bucătar,12.1
+S78,Maria,Grigorescu,Bucătar,15.32
+S79,Maria,Ionescu,Ajutor Bucătar,23.8
+S80,Cristian,Marinescu,Casier,17.2
+S81,Maria,Ionescu,Casier,19.83
+S82,Ana,Vlad,Ajutor Bucătar,20.82
+S83,Ana,Marinescu,Curier,21.59
+S84,Maria,Georgescu,Chelner,13.26
+S85,Ioana,Radu,Bucătar,16.08
+S86,Cristian,Toma,Ajutor Bucătar,22.06
+S87,Vlad,Radu,Curier,14.23
+S88,Ana,Dobre,Casier,22.05
+S89,Ștefan,Georgescu,Casier,21.53
+S90,Vlad,Georgescu,Chelner,14.54
+S91,Vlad,Toma,Casier,14.51
+S92,Ștefan,Mihalache,Bucătar,20.23
+S93,Cristian,Ionescu,Chelner,18.11
+S94,Ștefan,Vlad,Bucătar,22.45
+S95,Alexandru,Toma,Bucătar,12.42
+S96,Maria,Vlad,Curier,22.96
+S97,Ana,Mihalache,Bucătar,17.75
+S98,Raluca,Mihalache,Chelner,12.84
+S99,Raluca,Georgescu,Chelner,23.11
+S100,Ana,Mihalache,Curier,12.16
