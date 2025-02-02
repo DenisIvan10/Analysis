@@ -1,4 +1,4 @@
-h1>Description</h1>
+<h1>Description</h1>
 <p>The Order and Inventory Management System is a SQL-based project that provides insights into order processing, inventory tracking, and employee management. This system utilizes SQL queries and views to manage and analyze business operations, such as order activity, ingredient usage, and staff costs.</p>
 <h1>Features</h1>
 <h3>Order Activity</h3>
