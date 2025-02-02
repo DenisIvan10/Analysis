@@ -42,11 +42,3 @@ FROM (
     GROUP BY o.item_id, i.sku, i.item_name, r.ing_id, r.quantity, ing.ing_name, 
     ing.ing_weight, ing.ing_price
 ) s1;
-
-
-
-
-
-
-
-
