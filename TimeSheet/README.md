@@ -48,5 +48,5 @@ The SQL script (`rdbms_davax_tema_complet.sql`) creates all necessary objects, i
 - Insert data into core tables (employees, departments, projects) using the provided procedures or via SQL commands.
 - Use the views for quick reporting and data aggregation.
 - Extend or adapt the logic as needed for your use-case.
-- 
+
 ---
